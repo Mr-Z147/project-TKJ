@@ -96,7 +96,7 @@ echo
 read -p "Apakah Kamu Sudah Membaca nya?(y/n): " un
 if [ $un = y ]
 then
-sh project-TKJ.sh
+sh tkj.sh
 fi
 fi
 
@@ -194,7 +194,7 @@ echo
 read -p "Apakah Kamu Sudah Membaca nya?(y/n): " un
 if [ $un = y ]
 then
-sh project-TKJ.sh
+sh tkj.sh
 fi
 fi
 
